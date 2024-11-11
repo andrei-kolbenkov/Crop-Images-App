@@ -2,6 +2,7 @@
 
 - cv2
 - PIL
+- numpy
 - re
 - os
 - ThreadPoolExecutor
