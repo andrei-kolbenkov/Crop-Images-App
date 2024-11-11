@@ -1,5 +1,11 @@
 # Crop-Images-App
 
+- cv2
+- PIL
+- re
+- os
+- ThreadPoolExecutor
+
 About the project:
 Console application The application is designed to process any number of book scans.
 1. Data is taken from folders in the "data" directory.
